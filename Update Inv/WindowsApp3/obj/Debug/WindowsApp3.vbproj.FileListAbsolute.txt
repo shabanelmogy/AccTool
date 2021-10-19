@@ -1,0 +1,157 @@
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\SHABAN\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CopyComplete
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Data.v21.1.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Utils.v21.1.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Data.v21.1.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Utils.v21.1.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CopyComplete
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+H:\My Drive\MyProgect Vb.net\Completed Progect\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbprojAssemblyReference.cache
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\WindowsApp3.exe
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\WindowsApp3.pdb
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\WindowsApp3.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\DevExpress.Data.v21.1.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\DevExpress.Utils.v21.1.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\DevExpress.Data.v21.1.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\DevExpress.Utils.v21.1.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CopyComplete
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\obj\Debug\WindowsApp3.exe
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\obj\Debug\WindowsApp3.xml
+H:\My Drive\MyProgect Vb.net\Completed Progect\Update Inv\WindowsApp3\obj\Debug\WindowsApp3.pdb
