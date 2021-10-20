@@ -17,7 +17,7 @@ Public Class Form1
         Dim d2 As String = Dp_End.Value
 
         Dim con As New SqlConnection(Configuration.ConfigurationManager.ConnectionStrings("con").ConnectionString)
-        'حذف الفواتير من الحسابات والحركات المخزنية
+        'حذف الفواتير من الحسابات والحركات المخزنية لللفواتير بين تاريخين
         Try
             con.Open()
 
