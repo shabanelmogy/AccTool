@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApp1
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApp1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources._10514_red_refresh_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources._211835_trash_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources._211838_undo_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources._2290850_clean_delete_garbage_recycle_bin_trash_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources._2613299_backup_cloud_storage_google_googledrive_online_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources._2613299_backup_cloud_storage_google_googledrive_online_icon__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources._34217_close_delete_remove_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources._48785_delete_document_error_remove_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources._532258_click_cloud_finger_gesture_hand_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources._79920_gtk_guardar_save_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
